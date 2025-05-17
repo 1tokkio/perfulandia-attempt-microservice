@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29136c65-645a-494c-85c2-12d2dbaf492e" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/perfulandia-backend-01V.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/src/main/java/com/perfulandia/productservice/ProductserviceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/src/main/java/com/perfulandia/productservice/model/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/productservice/src/test/java/com/perfulandia/productservice/ProductserviceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/usuarioservice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/UsuarioserviceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/controller/UsuarioController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/model/Usuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/repository/UsuarioRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/service/UsuarioService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/test/java/com/perfulandia/usuarioservice/UsuarioserviceApplicationTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="29136c65-645a-494c-85c2-12d2dbaf492e" name="Changes" comment="First commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,9 +26,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2xE6nCm3XjSJzq1nL0Y2jO8TsnM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -77,10 +38,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/labinf/Downloads/perfulandia-backend-01V",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -92,6 +60,23 @@
       <option name="presentableId" value="Default" />
       <updated>1747491050191</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1747494881211</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747494881211</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1747494940863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747494940863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
