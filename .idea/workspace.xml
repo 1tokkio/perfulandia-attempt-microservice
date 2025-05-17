@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29136c65-645a-494c-85c2-12d2dbaf492e" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/perfulandia-backend-01V.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/src/main/java/com/perfulandia/productservice/ProductserviceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/src/main/java/com/perfulandia/productservice/model/Producto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/productservice/src/test/java/com/perfulandia/productservice/ProductserviceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/.idea/usuarioservice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/UsuarioserviceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/controller/UsuarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/model/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/repository/UsuarioRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/java/com/perfulandia/usuarioservice/service/UsuarioService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/usuarioservice/usuarioservice/src/test/java/com/perfulandia/usuarioservice/UsuarioserviceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2xE6nCm3XjSJzq1nL0Y2jO8TsnM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/labinf/Downloads/perfulandia-backend-01V",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29136c65-645a-494c-85c2-12d2dbaf492e" name="Changes" comment="" />
+      <created>1747491050191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747491050191</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/perfulandia-attempt-microservice" />
+    </ignored-roots>
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+</project>
